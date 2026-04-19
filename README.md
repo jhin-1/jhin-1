@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed Yosri
 
-<!--
-**jhin-1/jhin-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Node.js / Express)
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔗 Social Media API (Auth + Posts + Uploads)
+* 🔗 Saraha App (Anonymous Messaging System)
+* 🔗 Blog API (RESTful + MySQL)
+
+
+## 🧠 What I Focus On
+
+* Authentication & Authorization
+* RESTful APIs
+* Clean Architecture
+
+## 🛠 Tech Stack
+
+* Node.js
+* Express
+* MongoDB
+* MySQL
+* TypeScript
+
+## 📫 Contact Me
+
+* LinkedIn: (linkedin.com/in/ahmed-yosri-52700py)
